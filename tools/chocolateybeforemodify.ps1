@@ -1,0 +1,1 @@
+﻿Stop-Process -ProcessName StuntRally.exe -ErrorAction SilentlyContinue
