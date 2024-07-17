@@ -1,5 +1,7 @@
 $ErrorActionPreference = 'Stop';
-$installPath = "${env:ProgramFiles(x86)}\Stunt Rally $env:ChocolateyPackageVersion"
+$versionParts = $packageVersion -split '\.'
+$majorMinorVersion = "$($versionParts[0]).$($versionParts[1])"
+$installPath = "${env:ProgramFiles(x86)}\Stunt Rally $majorMinorVersion"
 
 $uninstallArgs = @{
     PackageName     = $env:ChocolateyPackageName

@@ -1,1 +1,1 @@
-﻿Stop-Process -ProcessName StuntRally.exe -ErrorAction SilentlyContinue
+﻿Stop-Process -ProcessName StuntRally3.exe -ErrorAction SilentlyContinue
