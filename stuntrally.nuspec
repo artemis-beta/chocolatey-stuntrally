@@ -42,23 +42,26 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <iconUrl>https://rawcdn.githack.com/artemis-beta/chocolatey-stuntrally/f82ac16eeb9fa9e29efccd95142afde0cec4635c/media/StuntRallyIcon.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
-    <licenseUrl>https://openbve-project.net/copyright</licenseUrl>
+    <licenseUrl>https://creativecommons.org/licenses/by-sa/3.0/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/leezer3/OpenBve</projectSourceUrl>
+    <projectSourceUrl>https://github.com/stuntrally/stuntrally3</projectSourceUrl>
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <bugTrackerUrl>https://github.com/stuntrally/stuntrally3/issues</bugTrackerUrl>
     <tags>race stunt rally game</tags>
     <copyright>© 2010 - 2024 Crystal Hammer and contributors</copyright>
-    <summary>License-free, open source, free of charge train driving simulator</summary>
+    <summary>A 3D racing game with own Track Editor.</summary>
     <releaseNotes>
     https://github.com/stuntrally/stuntrally3/releases/tag/3.1
     </releaseNotes>
-    <description><![CDATA[OpenBve is a license-free, open source, free of charge train driving simulator
+    <description><![CDATA[Stunt Rally is a 3D racing game with own Track Editor.
+    
+Works on GNU/Linux and Windows.
 
-This program includes detailed per-car simulation of the brake systems, friction, air resistance, toppling and more. In 3D cabs, the driving experience is augmented with forces that shake your simulated body upon acceleration and braking, as well as in curves. Besides that, OpenBve features a 3D positional sound system best enjoyed with surround speakers, train exteriors and timetables for the current run. Finally, via the main menu, routes and trains be easily selected to start a new session, the controls can be configured to keyboard or joystick devices, and a variety of options can be selected.
-
-Compared to other simulators of the genre, especially compared to commercial games, OpenBve has its main focus on realism, not necessarily on user-friendliness. You should be willing to study operational manuals for the routes and trains you want to drive, and will in many cases not get along by just memorizing a few keystrokes. If you can identify with this focus, OpenBve might be the right simulator for you. ]]>
+    For cars the game has a rally style of driving and sliding, mostly on gravel and loose surfaces.
+with possible stunt elements (jumps, loops, pipes) and generated roads from 3D spline.
+It includes many Sci-Fi vehicles and different planets. Even surreal locations.
+]]>
 </description>
   <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
   </metadata>
