@@ -55,12 +55,12 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     https://github.com/stuntrally/stuntrally3/releases/tag/3.1
     </releaseNotes>
     <description><![CDATA[Stunt Rally is a 3D racing game with own Track Editor.
-    
-Works on GNU/Linux and Windows.
 
-    For cars the game has a rally style of driving and sliding, mostly on gravel and loose surfaces.
-with possible stunt elements (jumps, loops, pipes) and generated roads from 3D spline.
-It includes many Sci-Fi vehicles and different planets. Even surreal locations.
+It features a rich variety of 229 tracks
+in 41 sceneries also on other planets and surreal places.
+
+Tracks difficulty ranges from short and easy to very difficult stunt tracks,
+including: jumps, skewed loops, pipes winding in 3D, obstacles or all at once.
 ]]>
 </description>
   <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
