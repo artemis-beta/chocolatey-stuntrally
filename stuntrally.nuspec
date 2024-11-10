@@ -26,7 +26,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- version should MATCH as closely as possible with the underlying software -->
     <!-- Is the version a prerelease of a version? https://docs.nuget.org/create/versioning#creating-prerelease-packages -->
     <!-- Note that unstable versions like 0.0.1 can be considered a released version, but it's possible that one can release a 0.0.1-beta before you release a 0.0.1 version. If the version number is final, that is considered a released version and not a prerelease. -->
-    <version>3.1</version>
+    <version>3.2</version>
     <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
     <!-- ============================== -->
@@ -52,7 +52,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <copyright>© 2010 - 2024 Crystal Hammer and contributors</copyright>
     <summary>A 3D racing game with own Track Editor.</summary>
     <releaseNotes>
-    https://github.com/stuntrally/stuntrally3/releases/tag/3.1
+    https://github.com/stuntrally/stuntrally3/releases/tag/3.2
     </releaseNotes>
     <description><![CDATA[Stunt Rally is a 3D racing game with own Track Editor.
 
